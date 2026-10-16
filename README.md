@@ -140,7 +140,7 @@ Update this section according to the technologies used in the project.
 
 ERPHUN
 
-- GitHub: [@YOUR_USERNAME](https://github.com/THE-ERPHUN)
+- GitHub: [@THE-ERPHUN](https://github.com/THE-ERPHUN)
 
 ---
 
