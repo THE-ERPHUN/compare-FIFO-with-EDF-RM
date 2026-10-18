@@ -145,3 +145,5 @@ ERPHUN
 ---
 
 If you find this project useful, consider giving the repository a ⭐.
+<img width="1661" height="1038" alt="Screenshot 2026-10-18 143945" src="https://github.com/user-attachments/assets/81c0e916-44c1-423f-b1fc-f1a74c23dc98" />
+
